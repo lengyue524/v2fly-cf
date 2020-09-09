@@ -35,10 +35,7 @@ jobs:
                 ]
               },
               "streamSettings": {
-                "network":"ws",
-                "wsSettings": {
-                  "path": "fuck"
-                }
+                "network":"ws"
               }
             }
           ],
